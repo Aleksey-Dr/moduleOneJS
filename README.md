@@ -1,2 +1,2 @@
 # moduleOneJS
-For learning module onr JS
+For learning module one JS
